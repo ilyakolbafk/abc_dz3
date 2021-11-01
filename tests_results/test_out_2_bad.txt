@@ -1,0 +1,1 @@
+It is diagonal matrix: dimension = 2. Average = 2.0

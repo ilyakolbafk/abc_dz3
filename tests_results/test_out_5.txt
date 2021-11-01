@@ -1,0 +1,5 @@
+It is common matrix: dimension = 2. Average = 2.5
+It is diagonal matrix: dimension = 2. Average = 0.0
+It is trinagularn matrix: dimension = 2. Average = 1.0
+It is common matrix: dimension = 1. Average = 1.0
+It is trinagularn matrix: dimension = 3. Average = 1.111
